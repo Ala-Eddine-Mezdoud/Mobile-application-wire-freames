@@ -28,11 +28,14 @@ Below are the wireframes for each screen:
 
 
 ![Logo Frame](./f1.jpg)
-![Login](./f2.jpg) 
+![Sign Up](./f2.jpg) 
 ![Sign Up](./f3.jpg) 
-![Home](./f4.jpg)
-![Search Page](./f5.jpg)
-![Buy Page](./f6.jpg)
+![Sign Up](./f4.jpg)
+![Login](./f5.jpg)
+![registration succesful](./f6.jpg)
+![Home Page](./f7.jpg)
+![Buy Page](./f8.jpg)
+![Search Page](./f9.jpg)
 
 ## How to Use
 
